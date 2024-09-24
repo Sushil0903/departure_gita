@@ -1,16 +1,11 @@
-# departure_gita
+The Bhagavad Gita App is a comprehensive tool for exploring the timeless wisdom of the Bhagavad Gita. This app allows users to read the verses (shlokas) of each chapter (adhyay) in three languages: Hindi, English, and Gujarati. The content is sourced from JSON data stored in the app’s assets, ensuring a smooth and offline reading experience.
 
-A new Flutter project.
+With the Bhagavad Gita App, you can immerse yourself in the spiritual teachings of Lord Krishna, presented in a user-friendly interface. Whether you prefer reading in Hindi, English, or Gujarati, this app provides accurate translations and transliterations to enhance your understanding. The app’s offline access feature ensures that all data is stored locally, allowing you to access the content without an internet connection. Navigate through chapters and verses with ease, and switch between languages seamlessly.
 
-## Getting Started
+To get started, simply download the app and begin your journey through the profound teachings of the Bhagavad Gita. Your feedback and suggestions are welcome to help us improve the app and make it even more enriching.
 
-This project is a starting point for a Flutter application.
+![bhagvatgita_redme](https://github.com/user-attachments/assets/3eae5eb4-fabc-40a8-8a75-a09ad81cac74)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here is the vedio link of App
+https://drive.google.com/file/d/1cwephh8urcAFrZ4KgX8QlqFKJu9qa0GA/view?usp=sharing
